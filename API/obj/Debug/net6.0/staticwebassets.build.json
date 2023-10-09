@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bT7a7ylkBREgif+FPmM+uGfr+nCQh9OAq1RlL9gcktQ=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "E:\\Projects\\ASPExampleApp\\api\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

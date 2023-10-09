@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    min-height: 50px;
+}
+
+.navform {
+    align-self: center;
+    margin-top: 300px;
+}
+
+mat-card {
+    max-width: 400px;
+    margin: 2em auto;
+    text-align: center;
+    max-height: 600px;
+}
+
+.navpart {
+    min-height: 70px;
+}
+
+.navbut {
+    min-width: 200px;
+}
